@@ -1,0 +1,12 @@
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\bin\Debug\Quanlyquancaphe.exe.config
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\bin\Debug\Quanlyquancaphe.exe
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\bin\Debug\Quanlyquancaphe.pdb
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.csprojResolveAssemblyReference.cache
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.Login.resources
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.Properties.Resources.resources
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.csproj.GenerateResource.Cache
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.exe
+c:\users\hh\documents\visual studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.pdb
+C:\Users\HH\Documents\Visual Studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.TableManager.resources
+C:\Users\HH\Documents\Visual Studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.AccountProfile.resources
+C:\Users\HH\Documents\Visual Studio 2013\Projects\Quanlyquancaphe\Quanlyquancaphe\obj\Debug\Quanlyquancaphe.Admin.resources
